@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Arnonix
-- 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on software engineering 
 - 📫 How to reach me moses.m.maranga@gmail.com
 
 <!---
