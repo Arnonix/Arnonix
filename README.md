@@ -31,11 +31,11 @@ Hello! I'm Moses Makori Maranga, an aspiring backend developer with a strong pas
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mosesmakorimaranga&show_icons=true&title_color=F89820&icon_color=F89820&text_color=ffffff&bg_color=2E2E2E" alt="Moses Makori Maranga's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arnonix&show_icons=true&title_color=F89820&icon_color=F89820&text_color=ffffff&bg_color=2E2E2E" alt="Moses Makori Maranga's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mosesmakorimaranga&show_icons=true&layout=compact&title_color=F89820&icon_color=F89820&text_color=ffffff&bg_color=2E2E2E" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arnonix&show_icons=true&layout=compact&title_color=F89820&icon_color=F89820&text_color=ffffff&bg_color=2E2E2E" alt="Top Languages" />
 </p>
 
 ---
